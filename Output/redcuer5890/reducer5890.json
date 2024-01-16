@@ -1,0 +1,12 @@
+{
+      "was": {
+            "data1/example2.txt": 4,
+            "data1/example1.txt": 1,
+            "data1/example3.txt": 1
+      },
+      "alice": {
+            "data1/example1.txt": 4,
+            "data1/example2.txt": 1,
+            "data1/example3.txt": 1
+      }
+}

@@ -1,0 +1,10 @@
+{
+      "am": {
+            "data1/example2.txt": 1,
+            "data1/example1.txt": 1,
+            "data1/example3.txt": 1
+      },
+      "what": {
+            "data1/example3.txt": 2
+      }
+}

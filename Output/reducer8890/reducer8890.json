@@ -1,0 +1,686 @@
+{
+      "was": {
+            "data/example2.txt": 4,
+            "data/example3.txt": 1,
+            "data/16.txt": 928,
+            "data/example1.txt": 1,
+            "data/11.txt": 359,
+            "data/23.txt": 741
+      },
+      "is": {
+            "data/example3.txt": 1,
+            "data/16.txt": 366,
+            "data/11.txt": 124,
+            "data/23.txt": 196
+      },
+      "project": {
+            "data/16.txt": 88,
+            "data/11.txt": 88,
+            "data/23.txt": 88
+      },
+      "gutenberg": {
+            "data/16.txt": 31,
+            "data/11.txt": 31,
+            "data/23.txt": 31
+      },
+      "ebook": {
+            "data/16.txt": 13,
+            "data/11.txt": 13,
+            "data/23.txt": 13
+      },
+      "united": {
+            "data/16.txt": 15,
+            "data/11.txt": 15,
+            "data/23.txt": 19
+      },
+      "lewis": {
+            "data/11.txt": 3
+      },
+      "most": {
+            "data/16.txt": 46,
+            "data/11.txt": 14,
+            "data/23.txt": 101
+      },
+      "restrictions": {
+            "data/16.txt": 2,
+            "data/11.txt": 2,
+            "data/23.txt": 2
+      },
+      "whatsoever": {
+            "data/16.txt": 2,
+            "data/11.txt": 2,
+            "data/23.txt": 2
+      },
+      "included": {
+            "data/16.txt": 3,
+            "data/11.txt": 3,
+            "data/23.txt": 4
+      },
+      "located": {
+            "data/16.txt": 7,
+            "data/11.txt": 7,
+            "data/23.txt": 7
+      },
+      "check": {
+            "data/16.txt": 4,
+            "data/11.txt": 4,
+            "data/23.txt": 5
+      },
+      "before": {
+            "data/16.txt": 56,
+            "data/11.txt": 41,
+            "data/23.txt": 62
+      },
+      "using": {
+            "data/16.txt": 8,
+            "data/11.txt": 8,
+            "data/23.txt": 8
+      },
+      "release": {
+            "data/16.txt": 1,
+            "data/11.txt": 1,
+            "data/23.txt": 2
+      },
+      "date": {
+            "data/16.txt": 4,
+            "data/11.txt": 3,
+            "data/23.txt": 4
+      },
+      "july": {
+            "data/16.txt": 1
+      },
+      "recently": {
+            "data/11.txt": 1,
+            "data/23.txt": 2,
+            "data/16.txt": 1
+      },
+      "october": {
+            "data/11.txt": 1
+      },
+      "february": {
+            "data/16.txt": 1
+      },
+      "english": {
+            "data/11.txt": 7,
+            "data/23.txt": 2,
+            "data/16.txt": 3
+      },
+      "encoding": {
+            "data/11.txt": 1,
+            "data/23.txt": 1,
+            "data/16.txt": 1
+      },
+      "utf": {
+            "data/16.txt": 1,
+            "data/11.txt": 1,
+            "data/23.txt": 1
+      },
+      "produced": {
+            "data/16.txt": 3,
+            "data/11.txt": 3,
+            "data/23.txt": 3
+      },
+      "duncan": {
+            "data/16.txt": 2
+      },
+      "research": {
+            "data/16.txt": 4
+      },
+      "while": {
+            "data/16.txt": 35
+      },
+      "labor": {
+            "data/16.txt": 1
+      },
+      "illustration": {
+            "data/11.txt": 1
+      },
+      "ii": {
+            "data/11.txt": 3,
+            "data/23.txt": 2,
+            "data/16.txt": 4
+      },
+      "claim": {
+            "data/16.txt": 2
+      },
+      "current": {
+            "data/16.txt": 2
+      },
+      "tears": {
+            "data/11.txt": 12,
+            "data/23.txt": 5
+      },
+      "iii": {
+            "data/11.txt": 2,
+            "data/23.txt": 2,
+            "data/16.txt": 3
+      },
+      "long": {
+            "data/11.txt": 34,
+            "data/23.txt": 34
+      },
+      "which": {
+            "data/16.txt": 132,
+            "data/11.txt": 56,
+            "data/23.txt": 190
+      },
+      "matches": {
+            "data/16.txt": 1
+      },
+      "original": {
+            "data/16.txt": 2
+      },
+      "publication": {
+            "data/16.txt": 1
+      },
+      "breaks": {
+            "data/16.txt": 3
+      },
+      "v": {
+            "data/16.txt": 3,
+            "data/11.txt": 2,
+            "data/23.txt": 2
+      },
+      "home": {
+            "data/16.txt": 44,
+            "data/11.txt": 5,
+            "data/23.txt": 41
+      },
+      "ix": {
+            "data/16.txt": 2,
+            "data/11.txt": 2,
+            "data/23.txt": 2
+      },
+      "sends": {
+            "data/11.txt": 2
+      },
+      "never": {
+            "data/16.txt": 79,
+            "data/11.txt": 45,
+            "data/23.txt": 58
+      },
+      "from": {
+            "data/11.txt": 52,
+            "data/23.txt": 192,
+            "data/16.txt": 148
+      },
+      "bird": {
+            "data/16.txt": 24
+      },
+      "wendys": {
+            "data/16.txt": 29
+      },
+      "children": {
+            "data/16.txt": 94
+      },
+      "caterpillar": {
+            "data/11.txt": 28
+      },
+      "pepper": {
+            "data/11.txt": 8
+      },
+      "teaparty": {
+            "data/11.txt": 3
+      },
+      "xiii": {
+            "data/16.txt": 2
+      },
+      "xiv": {
+            "data/16.txt": 2
+      },
+      "croquetground": {
+            "data/11.txt": 4
+      },
+      "me": {
+            "data/16.txt": 105,
+            "data/11.txt": 68,
+            "data/23.txt": 333
+      },
+      "lobster": {
+            "data/11.txt": 8
+      },
+      "xvii": {
+            "data/16.txt": 2
+      },
+      "quadrille": {
+            "data/11.txt": 5
+      },
+      "stole": {
+            "data/11.txt": 3
+      },
+      "they": {
+            "data/16.txt": 586,
+            "data/11.txt": 129,
+            "data/23.txt": 173
+      },
+      "know": {
+            "data/16.txt": 93,
+            "data/11.txt": 86,
+            "data/23.txt": 29
+      },
+      "way": {
+            "data/16.txt": 88,
+            "data/11.txt": 54,
+            "data/23.txt": 33
+      },
+      "two": {
+            "data/16.txt": 44
+      },
+      "sitting": {
+            "data/11.txt": 10
+      },
+      "sister": {
+            "data/11.txt": 8,
+            "data/23.txt": 4
+      },
+      "old": {
+            "data/16.txt": 27
+      },
+      "conversations": {
+            "data/11.txt": 2
+      },
+      "ran": {
+            "data/16.txt": 17,
+            "data/11.txt": 16,
+            "data/23.txt": 8
+      },
+      "without": {
+            "data/11.txt": 33,
+            "data/23.txt": 57
+      },
+      "suppose": {
+            "data/16.txt": 11
+      },
+      "mrs": {
+            "data/16.txt": 72
+      },
+      "own": {
+            "data/11.txt": 10,
+            "data/23.txt": 62
+      },
+      "darling": {
+            "data/16.txt": 111
+      },
+      "well": {
+            "data/11.txt": 60,
+            "data/23.txt": 49
+      },
+      "cried": {
+            "data/16.txt": 136
+      },
+      "feel": {
+            "data/11.txt": 8,
+            "data/23.txt": 14
+      },
+      "remain": {
+            "data/16.txt": 5
+      },
+      "stupid": {
+            "data/11.txt": 6,
+            "data/23.txt": 1
+      },
+      "whether": {
+            "data/11.txt": 11,
+            "data/23.txt": 11
+      },
+      "ever": {
+            "data/16.txt": 50
+      },
+      "would": {
+            "data/11.txt": 83,
+            "data/23.txt": 181,
+            "data/16.txt": 217
+      },
+      "suddenly": {
+            "data/11.txt": 13,
+            "data/23.txt": 1
+      },
+      "between": {
+            "data/16.txt": 13
+      },
+      "end": {
+            "data/16.txt": 19,
+            "data/11.txt": 19,
+            "data/23.txt": 20
+      },
+      "course": {
+            "data/16.txt": 69
+      },
+      "lived": {
+            "data/16.txt": 8
+      },
+      "remarkable": {
+            "data/11.txt": 2,
+            "data/23.txt": 3
+      },
+      "came": {
+            "data/16.txt": 76
+      },
+      "did": {
+            "data/11.txt": 62,
+            "data/23.txt": 67
+      },
+      "much": {
+            "data/11.txt": 52,
+            "data/23.txt": 44,
+            "data/16.txt": 39
+      },
+      "chief": {
+            "data/16.txt": 4
+      },
+      "lady": {
+            "data/16.txt": 32
+      },
+      "such": {
+            "data/16.txt": 66,
+            "data/11.txt": 47,
+            "data/23.txt": 78
+      },
+      "afterwards": {
+            "data/11.txt": 2,
+            "data/23.txt": 4
+      },
+      "ought": {
+            "data/11.txt": 14,
+            "data/23.txt": 4
+      },
+      "mocking": {
+            "data/16.txt": 4
+      },
+      "wondered": {
+            "data/11.txt": 1
+      },
+      "tiny": {
+            "data/16.txt": 5
+      },
+      "natural": {
+            "data/11.txt": 4,
+            "data/23.txt": 8
+      },
+      "within": {
+            "data/16.txt": 12
+      },
+      "its": {
+            "data/11.txt": 114,
+            "data/23.txt": 43
+      },
+      "then": {
+            "data/11.txt": 90,
+            "data/23.txt": 52,
+            "data/16.txt": 150
+      },
+      "discover": {
+            "data/16.txt": 4
+      },
+      "hurried": {
+            "data/11.txt": 11,
+            "data/23.txt": 1
+      },
+      "more": {
+            "data/16.txt": 79
+      },
+      "started": {
+            "data/11.txt": 2,
+            "data/23.txt": 9
+      },
+      "conspicuous": {
+            "data/16.txt": 1
+      },
+      "across": {
+            "data/11.txt": 5
+      },
+      "been": {
+            "data/16.txt": 136
+      },
+      "boys": {
+            "data/16.txt": 102
+      },
+      "loved": {
+            "data/16.txt": 13
+      },
+      "either": {
+            "data/11.txt": 11,
+            "data/23.txt": 16
+      },
+      "first": {
+            "data/16.txt": 86,
+            "data/11.txt": 49,
+            "data/23.txt": 41
+      },
+      "take": {
+            "data/11.txt": 21,
+            "data/23.txt": 33
+      },
+      "he": {
+            "data/16.txt": 1056
+      },
+      "field": {
+            "data/11.txt": 1,
+            "data/23.txt": 24
+      },
+      "innermost": {
+            "data/16.txt": 1
+      },
+      "fortunately": {
+            "data/11.txt": 1
+      },
+      "box": {
+            "data/16.txt": 5
+      },
+      "pop": {
+            "data/11.txt": 1
+      },
+      "trying": {
+            "data/16.txt": 13
+      },
+      "went": {
+            "data/11.txt": 83,
+            "data/23.txt": 52
+      },
+      "straight": {
+            "data/11.txt": 2,
+            "data/23.txt": 2
+      },
+      "passion": {
+            "data/16.txt": 6
+      },
+      "used": {
+            "data/16.txt": 17
+      },
+      "some": {
+            "data/11.txt": 52,
+            "data/23.txt": 56
+      },
+      "only": {
+            "data/16.txt": 92
+      },
+      "falling": {
+            "data/11.txt": 2,
+            "data/23.txt": 3
+      },
+      "respected": {
+            "data/16.txt": 1
+      },
+      "fell": {
+            "data/11.txt": 6,
+            "data/23.txt": 11
+      },
+      "stocks": {
+            "data/16.txt": 3
+      },
+      "slowly": {
+            "data/11.txt": 8
+      },
+      "said": {
+            "data/16.txt": 358,
+            "data/11.txt": 462,
+            "data/23.txt": 57
+      },
+      "next": {
+            "data/11.txt": 30,
+            "data/23.txt": 9
+      },
+      "woman": {
+            "data/16.txt": 16
+      },
+      "make": {
+            "data/11.txt": 29,
+            "data/23.txt": 51
+      },
+      "books": {
+            "data/16.txt": 1
+      },
+      "game": {
+            "data/16.txt": 8
+      },
+      "coming": {
+            "data/11.txt": 9,
+            "data/23.txt": 8
+      },
+      "too": {
+            "data/11.txt": 26,
+            "data/23.txt": 33
+      },
+      "noticed": {
+            "data/11.txt": 8
+      },
+      "cupboards": {
+            "data/11.txt": 2
+      },
+      "saw": {
+            "data/11.txt": 14,
+            "data/23.txt": 22
+      },
+      "pegs": {
+            "data/11.txt": 1
+      },
+      "jar": {
+            "data/11.txt": 2
+      },
+      "shelves": {
+            "data/11.txt": 1
+      },
+      "labelled": {
+            "data/11.txt": 1,
+            "data/23.txt": 1
+      },
+      "great": {
+            "data/11.txt": 39,
+            "data/23.txt": 46
+      },
+      "disappointment": {
+            "data/11.txt": 1
+      },
+      "drop": {
+            "data/11.txt": 1,
+            "data/23.txt": 1
+      },
+      "managed": {
+            "data/11.txt": 4,
+            "data/23.txt": 2
+      },
+      "fall": {
+            "data/11.txt": 7,
+            "data/23.txt": 1
+      },
+      "tumbling": {
+            "data/11.txt": 2
+      },
+      "theyll": {
+            "data/11.txt": 4,
+            "data/23.txt": 6
+      },
+      "an": {
+            "data/11.txt": 62,
+            "data/23.txt": 94
+      },
+      "fallen": {
+            "data/11.txt": 4,
+            "data/23.txt": 1
+      },
+      "somewhere": {
+            "data/11.txt": 3
+      },
+      "near": {
+            "data/11.txt": 15,
+            "data/23.txt": 19
+      },
+      "centre": {
+            "data/11.txt": 1
+      },
+      "let": {
+            "data/11.txt": 17,
+            "data/23.txt": 29
+      },
+      "thousand": {
+            "data/11.txt": 2,
+            "data/23.txt": 2
+      },
+      "learnt": {
+            "data/11.txt": 2
+      },
+      "several": {
+            "data/11.txt": 5,
+            "data/23.txt": 8
+      },
+      "schoolroom": {
+            "data/11.txt": 1
+      },
+      "good": {
+            "data/11.txt": 24,
+            "data/23.txt": 35
+      },
+      "knowledge": {
+            "data/11.txt": 3,
+            "data/23.txt": 9
+      },
+      "still": {
+            "data/11.txt": 13,
+            "data/23.txt": 14
+      },
+      "practice": {
+            "data/11.txt": 1,
+            "data/23.txt": 3
+      },
+      "thats": {
+            "data/11.txt": 33
+      },
+      "right": {
+            "data/11.txt": 35,
+            "data/23.txt": 21
+      },
+      "distancebut": {
+            "data/11.txt": 1
+      },
+      "longitude": {
+            "data/11.txt": 2
+      },
+      "words": {
+            "data/11.txt": 21,
+            "data/23.txt": 20
+      },
+      "presently": {
+            "data/11.txt": 2
+      },
+      "funny": {
+            "data/11.txt": 3,
+            "data/23.txt": 1
+      },
+      "antipathies": {
+            "data/11.txt": 1
+      },
+      "name": {
+            "data/11.txt": 11,
+            "data/23.txt": 30
+      },
+      "australia": {
+            "data/11.txt": 1
+      },
+      "curtseying": {
+            "data/11.txt": 1
+      },
+      "ignorant": {
+            "data/11.txt": 1,
+            "data/23.txt": 6
+      }
+}

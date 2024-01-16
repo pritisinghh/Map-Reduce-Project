@@ -1,0 +1,372 @@
+{
+      "alice": {
+            "data/example2.txt": 1,
+            "data/example3.txt": 1,
+            "data/11.txt": 385
+      },
+      "i": {
+            "data/example2.txt": 1,
+            "data/example3.txt": 1,
+            "data/11.txt": 401,
+            "data/23.txt": 1029,
+            "data/16.txt": 425,
+            "data/example1.txt": 1
+      },
+      "am": {
+            "data/example2.txt": 1,
+            "data/example3.txt": 1
+      },
+      "examplee": {
+            "data/example2.txt": 1
+      },
+      "wonderland": {
+            "data/11.txt": 7
+      },
+      "peter": {
+            "data/16.txt": 381
+      },
+      "carroll": {
+            "data/11.txt": 3
+      },
+      "whatt": {
+            "data/example3.txt": 1
+      },
+      "pan": {
+            "data/16.txt": 30
+      },
+      "use": {
+            "data/11.txt": 30,
+            "data/23.txt": 23,
+            "data/16.txt": 24
+      },
+      "states": {
+            "data/11.txt": 20,
+            "data/23.txt": 27,
+            "data/16.txt": 20
+      },
+      "world": {
+            "data/11.txt": 9,
+            "data/23.txt": 10,
+            "data/16.txt": 10
+      },
+      "with": {
+            "data/11.txt": 228,
+            "data/23.txt": 425,
+            "data/16.txt": 375
+      },
+      "may": {
+            "data/11.txt": 28,
+            "data/23.txt": 49,
+            "data/16.txt": 50
+      },
+      "it": {
+            "data/11.txt": 541,
+            "data/23.txt": 426,
+            "data/16.txt": 808
+      },
+      "give": {
+            "data/11.txt": 16,
+            "data/23.txt": 39,
+            "data/16.txt": 28
+      },
+      "or": {
+            "data/11.txt": 154,
+            "data/23.txt": 207,
+            "data/16.txt": 151
+      },
+      "terms": {
+            "data/11.txt": 23,
+            "data/23.txt": 26,
+            "data/16.txt": 23
+      },
+      "license": {
+            "data/11.txt": 17,
+            "data/23.txt": 17,
+            "data/16.txt": 17
+      },
+      "online": {
+            "data/11.txt": 4,
+            "data/23.txt": 4,
+            "data/16.txt": 4
+      },
+      "wwwgutenbergorg": {
+            "data/11.txt": 5,
+            "data/23.txt": 5,
+            "data/16.txt": 5
+      },
+      "not": {
+            "data/11.txt": 172,
+            "data/23.txt": 241,
+            "data/16.txt": 421
+      },
+      "have": {
+            "data/11.txt": 87,
+            "data/23.txt": 162,
+            "data/16.txt": 264
+      },
+      "where": {
+            "data/11.txt": 18,
+            "data/23.txt": 44,
+            "data/16.txt": 56
+      },
+      "january": {
+            "data/11.txt": 1,
+            "data/23.txt": 6
+      },
+      "updated": {
+            "data/11.txt": 2,
+            "data/23.txt": 2,
+            "data/16.txt": 2
+      },
+      "language": {
+            "data/11.txt": 1,
+            "data/23.txt": 5,
+            "data/16.txt": 7
+      },
+      "fulcrum": {
+            "data/11.txt": 1,
+            "data/16.txt": 1
+      },
+      "edition": {
+            "data/11.txt": 2,
+            "data/23.txt": 1,
+            "data/16.txt": 2
+      },
+      "contents": {
+            "data/11.txt": 1,
+            "data/23.txt": 2,
+            "data/16.txt": 3
+      },
+      "down": {
+            "data/11.txt": 102,
+            "data/23.txt": 35,
+            "data/16.txt": 62
+      },
+      "a": {
+            "data/11.txt": 690,
+            "data/23.txt": 899,
+            "data/16.txt": 987
+      },
+      "j": {
+            "data/16.txt": 1
+      },
+      "matthew": {
+            "data/16.txt": 1
+      },
+      "caucusrace": {
+            "data/11.txt": 4
+      },
+      "iv": {
+            "data/11.txt": 2,
+            "data/23.txt": 2,
+            "data/16.txt": 3
+      },
+      "bill": {
+            "data/11.txt": 13,
+            "data/23.txt": 7
+      },
+      "note": {
+            "data/16.txt": 4
+      },
+      "advice": {
+            "data/11.txt": 3,
+            "data/23.txt": 4
+      },
+      "vii": {
+            "data/11.txt": 2,
+            "data/23.txt": 2,
+            "data/16.txt": 2
+      },
+      "claimed": {
+            "data/16.txt": 2
+      },
+      "mad": {
+            "data/11.txt": 15
+      },
+      "involved": {
+            "data/16.txt": 1
+      },
+      "queens": {
+            "data/11.txt": 9
+      },
+      "mock": {
+            "data/11.txt": 57
+      },
+      "turtles": {
+            "data/11.txt": 5
+      },
+      "digitization": {
+            "data/16.txt": 1
+      },
+      "story": {
+            "data/11.txt": 9,
+            "data/23.txt": 4,
+            "data/16.txt": 26
+      },
+      "consistent": {
+            "data/16.txt": 2
+      },
+      "text": {
+            "data/16.txt": 1
+      },
+      "x": {
+            "data/11.txt": 2,
+            "data/23.txt": 2,
+            "data/16.txt": 2
+      },
+      "xi": {
+            "data/11.txt": 2,
+            "data/23.txt": 2,
+            "data/16.txt": 2
+      },
+      "tarts": {
+            "data/11.txt": 8
+      },
+      "evidence": {
+            "data/11.txt": 8,
+            "data/23.txt": 7
+      },
+      "public": {
+            "data/16.txt": 7
+      },
+      "domain": {
+            "data/16.txt": 3
+      },
+      "get": {
+            "data/11.txt": 46,
+            "data/23.txt": 53,
+            "data/16.txt": 41
+      },
+      "us": {
+            "data/16.txt": 60
+      },
+      "on": {
+            "data/11.txt": 204,
+            "data/23.txt": 189,
+            "data/16.txt": 363
+      },
+      "having": {
+            "data/11.txt": 10,
+            "data/23.txt": 31
+      },
+      "nothing": {
+            "data/11.txt": 34,
+            "data/23.txt": 39
+      },
+      "do": {
+            "data/11.txt": 97,
+            "data/23.txt": 107,
+            "data/16.txt": 149
+      },
+      "flight": {
+            "data/16.txt": 6
+      },
+      "had": {
+            "data/11.txt": 178,
+            "data/23.txt": 255,
+            "data/16.txt": 507
+      },
+      "into": {
+            "data/11.txt": 67,
+            "data/23.txt": 52
+      },
+      "book": {
+            "data/11.txt": 7,
+            "data/23.txt": 11
+      },
+      "reading": {
+            "data/11.txt": 4,
+            "data/23.txt": 6
+      },
+      "happy": {
+            "data/16.txt": 12
+      },
+      "but": {
+            "data/11.txt": 168,
+            "data/23.txt": 204,
+            "data/16.txt": 480
+      },
+      "pictures": {
+            "data/11.txt": 4,
+            "data/23.txt": 1,
+            "data/16.txt": 1
+      },
+      "considering": {
+            "data/11.txt": 3,
+            "data/23.txt": 1
+      },
+      "off": {
+            "data/16.txt": 45,
+            "data/11.txt": 73,
+            "data/23.txt": 35
+      },
+      "pirate": {
+            "data/16.txt": 32
+      },
+      "mind": {
+            "data/11.txt": 10,
+            "data/23.txt": 20,
+            "data/16.txt": 20
+      },
+      "ship": {
+            "data/16.txt": 26
+      },
+      "hot": {
+            "data/11.txt": 5,
+            "data/23.txt": 4
+      },
+      "day": {
+            "data/11.txt": 25,
+            "data/23.txt": 46,
+            "data/16.txt": 21
+      },
+      "xv": {
+            "data/16.txt": 2
+      },
+      "made": {
+            "data/11.txt": 30,
+            "data/23.txt": 59,
+            "data/16.txt": 49
+      },
+      "hook": {
+            "data/16.txt": 153
+      },
+      "making": {
+            "data/11.txt": 8,
+            "data/23.txt": 11
+      },
+      "xvi": {
+            "data/16.txt": 2
+      },
+      "daisychain": {
+            "data/11.txt": 1
+      },
+      "return": {
+            "data/16.txt": 15
+      },
+      "worth": {
+            "data/11.txt": 4,
+            "data/23.txt": 2
+      },
+      "up": {
+            "data/16.txt": 163,
+            "data/11.txt": 101,
+            "data/23.txt": 85
+      },
+      "all": {
+            "data/16.txt": 268,
+            "data/11.txt": 197,
+            "data/23.txt": 163
+      },
+      "getting": {
+            "data/11.txt": 22,
+            "data/23.txt": 23
+      },
+      "except": {
+            "data/16.txt": 23
+      },
+      "one": {
+            "data/16.txt": 211,
+            "data/11.txt": 102,
+            "data/23.txt": 179
+      }
